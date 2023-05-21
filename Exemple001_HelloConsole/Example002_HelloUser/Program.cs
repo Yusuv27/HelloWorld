@@ -1,6 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Введите ваше имя: ");
-string username = Console.ReadLine();
-Console.WriteLine("Привет," + username + ", сколько вам лет?");
-string let = Console.ReadLine();
-Console.WriteLine("Теперь мы знаем, что вам " + let);
+int number1 = 1;
+int number2 = 2;
+int result = number1 + number2;
+Console.WriteLine( result);
